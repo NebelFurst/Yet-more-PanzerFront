@@ -1,0 +1,6 @@
+{
+  "name": "PanzerFront WW2 - Endless Top-Down Tank Warfare",
+  "description": "Realistic 2D top-down WWII tank combat game with infinite battlefield, authentic rotating turrets, Allied & Axis AI armies, and deep tech trees for Germany, USA, USSR, and Britain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
